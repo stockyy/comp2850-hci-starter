@@ -1,1 +1,5 @@
-id,title,story_ref,story_type,need,type,severity,inclusion_risk,evidence,notes,candidate_fix
+id,severity_score,title,story_ref,story_type,need,type,severity,inclusion_risk,evidence,notes,candidate_fix
+
+1,idk,Focus Mode,stories.md#1,Job Story,Reduce Anxiety from Overload,Usability,High,Cognitive,wk06/research/stories.md,stops users from feeling paralysed by having too many tasks,false
+2,idk,Deadline Alerts,stories.md#4,Job Story,Ensure Deadlines aren't missed,Usability,Medium,Cognitive,wk06/research/stories.md,alerts users about immediate deadlines in a way they cannot miss(i.e. not via email),false
+3,idk,High Contrast Mode,stories.md#5,Job Story,Improved Visibility,Accessibility,High,Low Vision,wk06/research/stories.md,allows users to see the app even in high glare scenarios,false
